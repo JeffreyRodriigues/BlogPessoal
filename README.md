@@ -1,2 +1,2 @@
-# BlogPessoal
-Blog destinado há um de meus hobbies, que seria cozinhar!
+# Blog Receitas do Jeff
+Blog destinado a um de meus hobbies, que seria cozinhar!
